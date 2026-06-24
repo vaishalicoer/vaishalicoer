@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Vaishali Sharma
 
-<!--
-**vaishalicoer/vaishalicoer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-author name--- vaishali sharma
-Here are some ideas to get you started:
+🎓 Final Year B.Tech Computer Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full Stack Web Developer
+
+## 🌱 Currently Learning
+- HTML
+- CSS
+- JavaScript
+- React
+- Git & GitHub
+
+## 🚀 Looking for
+- Web Development Internship
+- Open Source Contributions
+
+## 📫 Connect with me
+
+**LinkedIn:**  
+https://linkedin.com/in/vaishali-sharma-478a26319
+
+**GitHub:**  
+https://github.com/vaishalicoer
+
+## ⚡ Fun Fact
+I love learning new technologies and building real-world projects.
